@@ -67,12 +67,9 @@
       </p>
     </div>
 
-    <div class="card">
-      <h2>تواصل معنا</h2>
-      <p>Scout@example.com</p>
-    </div>
+    
 
-  </div>
+
 
   <footer>
     جميع الحقوق محفوظة © 2026
